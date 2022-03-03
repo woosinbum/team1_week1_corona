@@ -1,4 +1,7 @@
 # week1_corona
+## 순위 
+3등
+<img width="638" alt="순위" src="https://user-images.githubusercontent.com/82801470/156574355-53bcb59a-39a8-407a-9a88-473d81c00a45.PNG">
 
 ## 코로나 흉부 ct 사진을 보고 코로나 양성인지 음성인지 판별하는 작업
 
